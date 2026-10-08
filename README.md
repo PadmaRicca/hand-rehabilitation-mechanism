@@ -4,8 +4,9 @@
 **Degree:** BEng (Hons) Biomedical Engineering  
 **Module:** PDE1234 (Design Practice for Biomedical Engineers)  
 **Academic Year:** 1st (2022/2023)  
-**Assessment outcome:** First Class (Distiction)  
-**Project type:** Individual SOLIDWORKS mechanical design and assembly project
+**Assessment Outcome:** First Class (Distinction)  
+**Overall Module Mark:** 4 (First Class, Distinction)  
+**Project Type:** Individual SOLIDWORKS mechanical design and assembly project
 
 ## Project Overview
 
