@@ -1,4 +1,5 @@
 # Hand Rehabilitation Mechanism
+**Project Level:** Foundational Undergraduate  
 
 **Institution:** Middlesex University London  
 **Degree:** BEng (Hons) Biomedical Engineering  
