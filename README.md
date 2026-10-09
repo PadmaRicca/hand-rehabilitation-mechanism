@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-Independently designed a mechanical hand rehabilitation mechanism in SOLIDWORKS as part of an assessment evaluating computer-aided design (CAD) skills.
+Designed a mechanical hand rehabilitation mechanism in SOLIDWORKS as part of an assessment evaluating computer-aided design (CAD) skills.
 
 Although a biomedical application was not required, I chose to address the challenge of maintaining joint mobility in patients in a coma, who may require passive limb mobilisation due to prolonged immobility. The proposed mechanism was intended to explore mechanically assisted finger movement as an alternative to manually performed exercises.
 
@@ -26,10 +26,10 @@ The CAD assembly incorporated a hand-operated crank, cams, followers and finger 
 
 ## Skills Demonstrated
 
-- **Computer-Aided Design**: SOLIDWORKS part modelling, feature creation and assembly development.
-- **Mechanical Design**: Cam-and-follower mechanisms, mechanical motion conversion and component integration.
-- **Assembly Modelling**: Mating constraints, component positioning and mechanical relationships.
-- **Independent Problem-Solving**: Applying CAD skills to a self-initiated biomedical engineering challenge.
+- **Computer-Aided Design:** Parametric modelling, dimensional accuracy and structured 3D design using SOLIDWORKS.
+- **Mechanical Reasoning:** Understanding of motion transmission, component interactions and fundamental mechanical principles.
+- **Spatial Visualisation:** Interpreting component geometry, positioning and alignment within complex assemblies.
+- **Independent Design Thinking:** Applying technical knowledge, initiative and engineering judgment to an open-ended design challenge.
 
 ## Report Availability
 
