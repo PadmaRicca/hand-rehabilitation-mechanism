@@ -7,7 +7,7 @@
 **Academic Year:** 1st (2022/2023)  
 **Assessment Outcome:** First Class (Distinction)  
 **Overall Module Mark:** 4 (First Class, Distinction)  
-**Project Type:** Individual SOLIDWORKS mechanical design and assembly project
+**Project Type:** SOLIDWORKS mechanical design and assembly project
 
 ## Project Overview
 
